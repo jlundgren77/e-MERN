@@ -13,6 +13,10 @@ const Home = () => (
         <li>item2</li>
         <li>item3</li>
       </ul>
+      <ul>
+        <li>Cat1</li>
+        <li>Cat2</li>
+      </ul>
     </div>
   </Layout>
 );
