@@ -19,6 +19,10 @@ const Home = () => (
 
         <li>Cat3</li>
       </ul>
+      <h4>Unavailable</h4>
+      <ul>
+        <li>Tacos</li>
+      </ul>
       <div>
         <h4>Related Items</h4>
         <ul>
