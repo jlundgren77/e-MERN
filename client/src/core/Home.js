@@ -19,6 +19,12 @@ const Home = () => (
 
         <li>Cat3</li>
       </ul>
+      <div>
+        <h4>Related Items</h4>
+        <ul>
+          <li>Hip Hop</li>
+        </ul>
+      </div>
     </div>
   </Layout>
 );
