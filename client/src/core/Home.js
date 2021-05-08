@@ -16,6 +16,8 @@ const Home = () => (
       <ul>
         <li>Cat1</li>
         <li>Cat2</li>
+
+        <li>Cat3</li>
       </ul>
     </div>
   </Layout>
