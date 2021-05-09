@@ -29,6 +29,7 @@ const Home = () => (
           <li>Hip Hop</li>
         </ul>
       </div>
+      <footer>adds the footer here</footer>
     </div>
   </Layout>
 );
