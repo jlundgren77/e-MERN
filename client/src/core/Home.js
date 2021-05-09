@@ -26,9 +26,9 @@ const Home = () => (
     </div>
     <div className='topTenAlbums'>
       <ol>
-        <li>Nashville Skyline</li>
         <li>Desire</li>
         <li>Blonde on Blonde</li>
+        <li>Blood on the Tracks</li>
       </ol>
     </div>
   </Layout>
