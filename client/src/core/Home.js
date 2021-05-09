@@ -24,6 +24,13 @@ const Home = () => (
         <li>Tacos</li>
       </ul>
     </div>
+    <div className='topTenAlbums'>
+      <ol>
+        <li>Nashville Skyline</li>
+        <li>Desire</li>
+        <li>Blonde on Blonde</li>
+      </ol>
+    </div>
   </Layout>
 );
 export default Home;
