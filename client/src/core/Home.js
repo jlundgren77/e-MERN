@@ -23,13 +23,6 @@ const Home = () => (
       <ul>
         <li>Tacos</li>
       </ul>
-      <div>
-        <h4>Related Items</h4>
-        <ul>
-          <li>Hip Hop</li>
-        </ul>
-      </div>
-      <footer>adds the footer here</footer>
     </div>
   </Layout>
 );
